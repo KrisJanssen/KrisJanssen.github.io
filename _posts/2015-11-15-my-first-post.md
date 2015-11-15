@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my Jekyll blog!"
-date: 
+date:
   "Sun Nov 15 2015 01:00:00 GMT+0100 (CET)": null
 description: My First Jekyll post
 published: true
@@ -18,7 +18,10 @@ I hope you will like it!
 Jekyll also offers powerful support for code snippets:
 
 {% highlight javascript linenos %}
-var a = ‘something’;
+function HelloWorld(){
+   myname = "Kris";
+   alert(myname);
+}
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
