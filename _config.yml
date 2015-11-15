@@ -11,8 +11,8 @@ paginate: 20
 baseurl: /
 domain_name: 'http://krisjanssen.github.io'
 google_analytics: 'UA-70086899-1'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus: true
+disqus_shortname: 'KrisPFJanssen'
 
 # Details for the RSS feed generator
 url:            'http://krisjanssen.github.io'
