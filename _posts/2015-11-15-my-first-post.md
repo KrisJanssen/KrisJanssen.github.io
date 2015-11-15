@@ -1,9 +1,11 @@
 ---
 title: "Welcome to Jekyll!"
-date: {}
-description: Thriller Comedy Horror
+date: 
+  "Sun Nov 15 2015 01:00:00 GMT+0100 (CET)": null
+description: My First Jekyll post
 published: true
 ---
+
 
 Hi,
 
